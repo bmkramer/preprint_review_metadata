@@ -8,6 +8,7 @@ The repository contains the folllowing SQL script:
 * [abstracts_crossref_openalex_2024_04.sql](sql/abstracts_crossref_openalex_2024_04.sql)
 
 The script is used to collect data on abstract coverage (and abstract length) for Crossref DOIs in Crossref and OpenAlex, and aggregate the data by publisher.
+Scope is limited to publications with Crossref type 'journal-articles' and publication years 2022-2024. 
 
 This analysis was performed using [Curtin Open Knowledge Initiative (COKI)](https://openknowledge.community/) infrastructure, which is documented on GitHub: https://github.com/The-Academic-Observatory. Here, a number of open data sources (including Crossref, OpenAlex and OpenAIRE) are ingested into a Google Big Query environment, which can then be queried via SQL.
 
