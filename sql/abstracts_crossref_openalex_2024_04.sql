@@ -93,13 +93,15 @@ table_final AS (
 SELECT
 
 a.*,
-ROUND(SAFE_DIVIDE(a.crossref_has_abstract, crossref_dois), 1) as pc_crossref_abstracts,
-ROUND(SAFE_DIVIDE(a.openalex_has_abstract, crossref_dois), 1) as pc_openalex_abstracts,
+ROUND(SAFE_DIVIDE(a.crossref_has_abstract, crossref_dois)*100, 1) as pc_crossref_abstracts,
+ROUND(SAFE_DIVIDE(a.openalex_has_abstract, crossref_dois)*100, 1) as pc_openalex_abstracts,
 b.member_primary_name as publisher_name
 
 FROM TABLE_AGG as a
 LEFT JOIN `utrecht-university.crossref.member_data_20240123` as b
 ON (a.member) = (b.member_id)
+
+ORDER BY crossref_dois DESC
 
 )
 
