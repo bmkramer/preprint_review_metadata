@@ -2,7 +2,7 @@
 SQL code accompanying blogpost **'More open abstracts! Comparing abstract coverage in Crossref and OpenAlex'**
 
 * Blogpost: [link] 
-* Dataset: [link]
+* Dataset: https://10.5281/zenodo.11580550
 
 The repository contains the folllowing SQL script:
 * [abstracts_crossref_openalex_2024_04.sql](sql/abstracts_crossref_openalex_2024_04.sql)
