@@ -1,10 +1,8 @@
 # More open abstracts
 SQL code accompanying blogpost **'More open abstracts! Comparing abstract coverage in Crossref and OpenAlex'**
 
-SQL script to collect data on abstract coverage (and abstract length) for Crossref DOIs in Crossref and OpenAlex, aggregated by publisher.
-
-Blogpost: [link] 
-Dataset: [link]
+* Blogpost: [link] 
+* Dataset: [link]
 
 The repository contains the folllowing SQL script:
 * abstracts_crossref_openalex_2024_04.sql
