@@ -1,5 +1,5 @@
 # More open abstracts
-SQL code accompanying blogpost **'More open abstracts! Comparing abstract coverage in Crossref and OpenAlex'**
+SQL code accompanying blogpost **'More open abstracts? Comparing abstract coverage in Crossref and OpenAlex'**
 
 * Blogpost: [link] 
 * Dataset: https://10.5281/zenodo.11580550
