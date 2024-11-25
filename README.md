@@ -1,7 +1,7 @@
 # More open abstracts
 SQL code accompanying blogpost **'More open abstracts? Comparing abstract coverage in Crossref and OpenAlex'**
 
-* Blogpost: [link] 
+* Blogpost: https://bmkramer.github.io/SesameOpenScience_site/thought/202411_open_abstracts/
 * Dataset: https://10.5281/zenodo.11580550
 
 The repository contains the folllowing SQL script:
