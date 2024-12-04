@@ -17,4 +17,5 @@ In particular,the script uses the following data sources:
 - Crossref (data snapshot 2024-07-31), provided by Crossref to COKI as Metadata Plus subscriber
 - DataCite (data snapshot 2024-04-30 for records up to 2023-12-31), provided by DataCite as [public data file](https://doi.org/10.14454/zhaw-tm22) (see https://datacite.org/blog/announcing-datacites-first-public-data-file/), ingested by COKI in Google Big Query
 
+![Preprint-review links in Crossref and DataCite](https://github.com/bmkramer/preprint_review_metadata/blob/main/figures/preprint_review_metadata.png)
 
