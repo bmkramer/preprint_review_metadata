@@ -111,6 +111,5 @@ FROM TABLE_OBJECT
 SELECT DISTINCT * FROM TABLE_NAMES
 
 
---- saved as `utrecht-university.PPR.crossref_pr_p_2023`
 --- n = 37778 of which 36492 distinct
 --- duplicates are all Copernicus - unclear why as only one preprint relation included in pr_doi
