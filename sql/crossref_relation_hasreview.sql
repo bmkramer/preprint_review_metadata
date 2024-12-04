@@ -110,7 +110,5 @@ FROM TABLE_OBJECT
 
 SELECT DISTINCT * FROM TABLE_NAMES
 
-
---- saved as `utrecht-university.PPR.crossref_p_pr_2023`
 --- n = 36428 of which 34713 distinct
 --- duplicates are all Copernicus where reviews are asserted by subject and object
