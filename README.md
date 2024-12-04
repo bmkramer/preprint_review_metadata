@@ -7,7 +7,9 @@ SQL code accompanying the section *Linking preprint and review metadata* in the 
 The repository contains the folllowing SQL scripts:
 * [crossref_relation_hasreview.sql](sql/crossref_relation_hasreview.sql)
 * [crossref_relation_isrefviewof.sql](sql/crossref_relation_isreviewof.sql)
+* [datacite_relation_isreviewedby.sql](sql/datacite_relation_isreviewedby.sql)
 * [datacite_relation_reviews.sql](sql/datacite_relation_reviews.sql)
+
 
 The scripts are used to identify reviewed preprints with publication year 2023 in both Crossref and DataCite, as well as preprint reviews with publication year 2023 in both systems. For reviewed preprints, information is collected about the preprint platform and, for all reviews that themselves have a DOI, the review platform. For preprint reviews, information is similarly collected about the review platform and the preprint platform. 
 
