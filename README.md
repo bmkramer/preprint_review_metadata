@@ -1,4 +1,4 @@
-# Preprint-review metadata
+# Preprint-review metadata in Crossref and DataCite
 SQL code accompanying the section *Linking preprint and review metadata* in the report **Map the metadata transfer ecosystem **
 
 * Report: [doi to add]
