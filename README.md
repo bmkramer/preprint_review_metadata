@@ -1,7 +1,7 @@
 # Preprint-review metadata in Crossref and DataCite
-SQL code accompanying the section *Linking preprint and review metadata* in the report **Mapping the metadata transfer ecosystem**
+SQL code accompanying the section *Linking preprint and review metadata* in the report **Mapping the preprint review metadata transfer workflows**
 
-* Report: [add doi when published]
+* Report: https://doi.org/10.31222/osf.io/yu4sm
 * Dataset: https://doi.org/10.5281/zenodo.14274273
 
 The repository contains the folllowing SQL scripts:
